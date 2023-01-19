@@ -57,7 +57,8 @@ As the state diagram suggests, a transfer begins with the requester selecting th
 With just those few sentences, we already captured the essence of APB. And now, we are in a position to run the simulation to see what it does prior to making any changes in the stimuli it generates.
 
 ## Simulate & play with the code
-[0] EDA Playground Example - APB UVM With Scoreboard _ by an unknown author https://www.edaplayground.com/x/ueMH
+[0] EDA Playground Example - APB UVM With Scoreboard _ by an unknown author https://www.edaplayground.com/x/ueMH 
+Note: For a successful simulation run, refer to... <save point: too sleepy...>
 
 ## Additional references
 [1] M. J. H. Borja, “UVM Hello World,” GitHub, Jan. 13, 2023. https://github.com/mjhborja/hello_world_uvm (accessed Jan. 19, 2023).
