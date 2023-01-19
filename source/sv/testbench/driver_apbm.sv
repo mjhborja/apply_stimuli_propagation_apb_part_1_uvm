@@ -23,7 +23,7 @@ endclass
 
 function void apbm_driver::build_phase(uvm_phase phase);
 	super.build_phase(phase);
-  if(uvm_config_db#(virtual apb_if)::get(this,"","drvr_if",vif) == null) `uvm_fatal(get_type_name(),"Virtual interface in apb_driver is NULL")
+  if(!uvm_config_db#(virtual apb_if)::get(this,"","drvr_if",vif)) `uvm_fatal(get_type_name(),"Virtual interface in apb_driver is NULL")
 //	assert(vif != null) else
 //		`uvm_fatal(get_type_name(),"Virtual interface in apb_driver is NULL")
 endfunction

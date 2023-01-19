@@ -81,25 +81,25 @@ endfunction
     case(paddr%4)
        0: 	begin
          
-         		mem[paddr] <= pwdata[7:0];
-        	    mem[paddr+1] <= pwdata[15:8];
-         	    mem[paddr+2] <= pwdata[23:16];
-        	    mem[paddr+3] <= pwdata[31:24];
+         		mem[paddr] = pwdata[7:0];
+        	    mem[paddr+1] = pwdata[15:8];
+         	    mem[paddr+2] = pwdata[23:16];
+        	    mem[paddr+3] = pwdata[31:24];
       	
        		end
        1: 	begin
-         		mem[paddr] <= pwdata[15:8];
-         		mem[paddr+1] <= pwdata[23:16];
-        		mem[paddr+2] <= pwdata[31:24];
+         		mem[paddr] = pwdata[15:8];
+         		mem[paddr+1] = pwdata[23:16];
+        		mem[paddr+2] = pwdata[31:24];
         
             end
        2: 	begin
-       			mem[paddr] <= pwdata[23:16];
-         		mem[paddr+1] <= pwdata[31:24];
+       			mem[paddr] = pwdata[23:16];
+         		mem[paddr+1] = pwdata[31:24];
        
       		end
        3: 	begin
-         		mem[paddr] <= pwdata[31:24];
+         		mem[paddr] = pwdata[31:24];
 
       		end
       default: begin
