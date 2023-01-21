@@ -148,3 +148,6 @@ __*learning interface protocols*__, __*waveform viewing*__
 [2] M. J. H. Borja, “UVM Hello World,” GitHub, Jan. 13, 2023. https://github.com/mjhborja/hello_world_uvm (accessed Jan. 19, 2023).
 \
 [3] AMBA APB Protocol Specification. Cambridge, England: Arm Ltd., 2021. Accessed: Jan. 19, 2023. [Online]. Available: https://documentation-service.arm.com/static/60d5b505677cf7536a55c245?token=
+
+## Note to reader
+The review content, including references to the original source code, analysis, diagrams and overall presentation of the topic, is Martin's original contribution. The source code for this post is not Martin's work.
