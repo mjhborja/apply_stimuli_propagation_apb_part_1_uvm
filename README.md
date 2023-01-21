@@ -143,7 +143,7 @@ That's it for this post. And happy waveform checking!
 __*learning interface protocols*__, __*waveform viewing*__
 
 ## References
-[1] “APB UVM With Scoreboard _,” www.edaplayground.com. https://www.edaplayground.com/x/ueMH (accessed Jan. 21, 2023).
+[1] “APB UVM With Scoreboard _,” www.edaplayground.com. https://www.edaplayground.com/x/ueMH (accessed Jan. 19, 2023).
 \
 [2] M. J. H. Borja, “UVM Hello World,” GitHub, Jan. 13, 2023. https://github.com/mjhborja/hello_world_uvm (accessed Jan. 19, 2023).
 \
