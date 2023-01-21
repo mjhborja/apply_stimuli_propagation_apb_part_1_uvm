@@ -152,4 +152,4 @@ __*learning interface protocols*__, __*adopting VIP*__, __*waveform viewing*__
 [3] AMBA APB Protocol Specification. Cambridge, England: Arm Ltd., 2021. Accessed: Jan. 19, 2023. [Online]. Available: https://documentation-service.arm.com/static/60d5b505677cf7536a55c245?token=
 
 ## Note to reader
-The review content, including references to the original source code, analysis, diagrams otherwise stated and overall presentation of the topic, is Martin's original contribution. The source code for this post is not Martin's work.
+The review content, including references to the original source code, analysis, diagrams otherwise stated and overall presentation of the topic, is Martin's original contribution. The base line source code for this post is not Martin's work.
